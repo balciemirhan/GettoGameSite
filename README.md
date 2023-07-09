@@ -1,5 +1,5 @@
 # GettoGameSite
-HTML-CSS-SASS-JS
+HTML-CSS-SASS-JS / Full Responsive Web Site
 ---
 Thank You ArinSoftWare
 ---
