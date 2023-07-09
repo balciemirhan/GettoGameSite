@@ -3,7 +3,6 @@ HTML-CSS-SASS-JS
 ---
 Thank You ArinSoftWare
 ---
-
 ![GettoGame](https://github.com/balciemirhan/GettoGameSite/assets/116453429/775d0da5-254c-4600-aca7-2cffe00dfa50)
 ---
 ![GettoGame2](https://github.com/balciemirhan/GettoGameSite/assets/116453429/64dabc3f-5a98-431d-b39b-71d38ee0f2f0)
